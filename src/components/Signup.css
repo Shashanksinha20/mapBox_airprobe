@@ -1,0 +1,16 @@
+.body
+{
+        background-color: #271452
+}
+.btn{
+    color: #FFFFFF;
+    background-color: #FE877F;
+    width: 100%;
+    font-size: 15px;
+    
+}
+.alert{
+    color: red;
+    padding: 5px;
+    margin: 0;
+}

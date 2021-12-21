@@ -1,0 +1,23 @@
+.body
+{
+        background-color: #271452
+}
+.btn{
+    color: #FFFFFF;
+    background-color: #FE877F;
+    width: 100%;
+    font-size: 15px;
+}
+.alertBox{
+   
+    background-color: #f6f9f8;
+    font-size: 15px;
+    color: #8e8c88;
+    font-weight: 600;
+    text-align: center;
+}
+
+.incorrect-box{
+    background-color: #fddce0;
+    color: #892528;
+}

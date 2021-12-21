@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #271452
+}
+
+.btn{
+    color: #FFFFFF;
+    background-color: #FE877F;
+    width: 100%;
+    font-size: 15px;  
+}
